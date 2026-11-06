@@ -6,7 +6,7 @@
 This Privacy Policy explains how **SwitchBot** (the “Bot”) handles information when you interact with it on Discord. SwitchBot provides Discord server utilities, which may include moderation, custom commands, link restrictions, Nintendo/homebrew news, and AI-assisted responses.
 
 **Operator:** Better Gaming  
-**Privacy contact:** bettercreative.media@outlook.com
+**Privacy contact:** yutheninja@hotmail.com
 
 ## 1. Information the Bot may process
 
@@ -39,7 +39,7 @@ AI support sessions and solved support cases are stored in an encrypted database
 
 ## 5. Deletion requests and privacy choices
 
-Users can ask about their data, request correction where applicable, or request deletion by contacting **bettercreative.media@outlook.com** and providing sufficient details to identify the relevant Discord account or data. Server administrators can remove the Bot and change its permissions or settings at any time.
+Users can ask about their data, request correction where applicable, or request deletion by contacting **yutheninja@hotmail.com** and providing sufficient details to identify the relevant Discord account or data. Server administrators can remove the Bot and change its permissions or settings at any time.
 
 The operator will evaluate and respond to requests in accordance with applicable law and Discord's Developer Terms. Removing the Bot from a server does not automatically prove that previously stored records have been erased; data no longer needed should be deleted as required.
 
@@ -57,4 +57,4 @@ This policy may be updated to reflect changes in the Bot's features, practices, 
 
 ## 9. Contact
 
-For privacy questions or data requests, contact **bettercreative.media@outlook.com**.
+For privacy questions or data requests, contact **yutheninja@hotmail.com**.
