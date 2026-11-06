@@ -5,8 +5,8 @@
 
 These Terms of Service (“Terms”) govern use of **SwitchBot** (the “Bot”), a third-party Discord bot offering features that may include moderation, custom commands, link restrictions, Nintendo/homebrew news, and AI-assisted responses.
 
-**Operator:** [INSERT YOUR NAME OR DEVELOPER/TEAM NAME]  
-**Support contact:** [INSERT YOUR CONTACT EMAIL OR PUBLIC SUPPORT CONTACT]
+**Operator:** Better Gaming  
+**Support contact:** bettercreative.media@outlook.com
 
 ## 1. Agreement and Discord rules
 
@@ -58,4 +58,4 @@ The operator may update these Terms as the Bot changes or legal requirements evo
 
 ## 10. Contact
 
-For support or questions about these Terms, contact **[INSERT YOUR CONTACT EMAIL OR PUBLIC SUPPORT CONTACT]**.
+For support or questions about these Terms, contact **bettercreative.media@outlook.com**.
